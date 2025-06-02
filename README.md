@@ -1,13 +1,13 @@
 # NBA Roster Construction Under the New CBA
 
-## 📊 Overview
+##  Overview
 This project explores how the NBA's new Collective Bargaining Agreement (CBA) has impacted roster construction strategies — specifically the shift from star-heavy rosters toward deeper, more balanced teams. The Indiana Pacers' success in the 2024–25 playoffs highlights how depth and smart salary allocation can outperform traditional "superteam" models.
 
 As an aspiring data scientist with a passion for basketball, I'm using this project to combine data science skills with real-world sports analytics.
 
 ---
 
-## ❓ Research Questions
+##  Research Questions
 
 1. **How has the average team salary distribution changed before and after the new CBA?**
 2. **Is there a correlation between team depth (bench production, player usage spread) and playoff success?**
@@ -15,7 +15,7 @@ As an aspiring data scientist with a passion for basketball, I'm using this proj
 
 ---
 
-## 🔧 Tools & Skills
+## Tools & Skills
 
 - Python (pandas, matplotlib, seaborn, numpy)
 - Jupyter Notebook
@@ -25,7 +25,7 @@ As an aspiring data scientist with a passion for basketball, I'm using this proj
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 nba-cba-roster-analysis/
 │
 ├── data/                  # Raw and cleaned datasets
